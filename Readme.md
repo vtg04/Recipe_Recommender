@@ -22,7 +22,7 @@ cd Recipe_Recommender
 pip install streamlit openai langchain_community
 ```
 
-### Generate Moth Watering Recipes
+### Generate Mouth Watering Recipes
 
 ```bash
 python app.py
